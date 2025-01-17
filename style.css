@@ -5,6 +5,9 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed; 
   margin-top: 10%;
+  color: #141e46;
+  font-family: Sans-Serif;
+  font-size: 18px;
 }
 
 html{
